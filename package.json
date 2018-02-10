@@ -1,0 +1,32 @@
+{
+  "name": "reactivewithrxjs",
+  "version": "1.0.0",
+  "description": "Reactive programming in action with RXjs",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parimalyeole1/reactiveWithRxJs.git"
+  },
+  "keywords": [
+    "RxJs",
+    "Functional Programming",
+    "Reactive Programming",
+    "Rx"
+  ],
+  "author": "Parimal Yeole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parimalyeole1/reactiveWithRxJs/issues"
+  },
+  "homepage": "https://github.com/parimalyeole1/reactiveWithRxJs#readme",
+  "dependencies": {
+    "rxjs": "^5.5.6"
+  },
+  "devDependencies": {
+    "ts-loader": "^3.5.0",
+    "typescript": "^2.7.1",
+    "typings": "^2.1.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}

@@ -1,2 +1,2 @@
 # reactiveWithRxJs
-Practising "Reactive Programming"
+"Reactive Programming" with RxJs
